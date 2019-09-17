@@ -1,4 +1,4 @@
 # LearnGit
 tuto
-salut
-ca va
+Bonjour
+Comment ca va
